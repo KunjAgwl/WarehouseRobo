@@ -13,7 +13,6 @@ The code is kinda messy coz not enough time but it works.It actually optimizng p
 
 <img width="300" height="329" alt="image" src="https://github.com/user-attachments/assets/248b8b1d-3d0a-4478-ab13-a7a2478474a4" />
 
-![Warehouse](https://github.com/user-attachments/assets/69d39371-c471-412b-85a8-c1bdb082a12d)
 
 ## Genetic Algorithm Parameters
 

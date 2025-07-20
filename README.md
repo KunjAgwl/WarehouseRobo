@@ -9,7 +9,7 @@ I tried implmenting genetic algorithm to optimize the path that robot takes to v
 ## Problem Overview
 
 The system optimizes the order in which a robot should complete warehouse tasks. Each task consists of picking up an item from one location and dropping it at another location. The goal is to minimize the total travel distance.
-The code is kinda messy coz not enough time but it kinda works.It was actually working optimizng path.
+The code is kinda messy coz not enough time but it works.It actually optimizng path.
 
 <img width="300" height="329" alt="image" src="https://github.com/user-attachments/assets/248b8b1d-3d0a-4478-ab13-a7a2478474a4" />
 

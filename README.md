@@ -16,7 +16,7 @@ The code is kinda messy coz not enough time but it kinda works.It was actually w
 ![Warehouse](https://github.com/user-attachments/assets/69d39371-c471-412b-85a8-c1bdb082a12d)
 
 ## Genetic Algorithm Parameters
-
+'''python
     NUM_TASKS = len(TASKS) # Number of tasks (8 in this case)
     NUM_GENERATIONS = 50 # Number of evolution cycles
     POP_SIZE = 100 # Population size

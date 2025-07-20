@@ -1,6 +1,8 @@
-![Warehouse](https://github.com/user-attachments/assets/b7d36306-a5d8-4dc9-a9ac-b0f821744f37)# Warehouse Robot Genetic Algorithm Implementation
+![Warehouse](https://github.com/user-attachments/assets/b7d36306-a5d8-4dc9-a9ac-b0f821744f37)
+# Warehouse Robot Genetic Algorithm Implementation
 
-# You can check Warehouse.gif
+You can check Warehouse.gif
+
 This document explains the genetic algorithm components used to optimize warehouse robot routing for pick-and-drop tasks.
 I tried implmenting genetic algorithm to optimize the path that robot takes to visit the coordinated in such a way that it minimizes manhattan distance. 
 
